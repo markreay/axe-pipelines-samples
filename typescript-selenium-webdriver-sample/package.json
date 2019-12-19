@@ -7,7 +7,7 @@
         "@types/jest": "^24.0.23",
         "@types/node": "^12.12.20",
         "@types/selenium-webdriver": "^4.0.6",
-        "accessibility-insights-report": "^0.1.0",
+        "accessibility-insights-report": "../../accessibility-insights-web/package/report/drop",
         "axe-sarif-converter": "^2.2.0",
         "axe-webdriverjs": "^2.3.0",
         "chromedriver": "^79.0.0",
